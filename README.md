@@ -50,13 +50,16 @@ python src/evaluation_strategy/XGBoost.py --model_name "generation_model_name" -
 
 ## 📚 Citation
 ```
-@misc{kim2025clawscreativitydetection,
-      title={CLAWS:Creativity detection for LLM-generated solutions using Attention Window of Sections}, 
-      author={Keuntae Kim and Eunhye Jeong and Sehyeon Lee and Seohee Yoon and Yong Suk Choi},
-      year={2025},
-      eprint={2510.17921},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2510.17921}, 
+@inproceedings{NEURIPS2025_c173f0a0,
+ author = {Kim, Keuntae and Jeong, Eunhye and Lee, Sehyeon and Yoon, Seohee and Choi, Yong Suk},
+ booktitle = {Advances in Neural Information Processing Systems},
+ doi = {10.52202/085713-4448},
+ editor = {D. Belgrave and C. Zhang and H. Lin and R. Pascanu and P. Koniusz and M. Ghassemi and N. Chen},
+ pages = {133483--133516},
+ publisher = {Curran Associates, Inc.},
+ title = {CLAWS:Creativity detection for LLM-generated solutions using Attention Window of Sections},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2025/file/c173f0a085728061bcd5b8a419170199-Paper-Conference.pdf},
+ volume = {38, Main Conference},
+ year = {2025}
 }
 ```
